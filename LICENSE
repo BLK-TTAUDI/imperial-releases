@@ -1,0 +1,59 @@
+Imperial — Proprietary Software Licence
+
+Copyright © 2026 BLK-TTAUDI. All rights reserved.
+
+Imperial (including Imperial Docs, Imperial Sheets and Imperial Slides), its
+source code, object code, installers, documentation, designs, artwork and all
+related files (together, the "Software") are proprietary and confidential and
+are owned by BLK-TTAUDI. The Software is licensed, not sold.
+
+1. Permitted use
+   If you obtained an installer for the Software from the official release page
+   (https://github.com/BLK-TTAUDI/imperial-releases), you may install and use
+   that copy of the Software for your own personal or internal business
+   purposes, and receive updates delivered through the Software's built-in
+   updater. No other rights are granted.
+
+2. Restrictions
+   Unless BLK-TTAUDI has given you written permission, you may not:
+   a. copy, distribute, publish, mirror, re-host, share or otherwise make the
+      Software or any installer for it available to anyone else, whether free
+      of charge or not;
+   b. sell, rent, lease, lend, sublicense or transfer the Software;
+   c. modify, translate, adapt or create derivative works of the Software;
+   d. decompile, disassemble or reverse engineer the Software, except to the
+      extent that applicable law expressly permits this despite this
+      restriction;
+   e. remove, alter or obscure any copyright, licence or proprietary notice in
+      or on the Software;
+   f. use the Software to build a competing product.
+
+3. Source code
+   The source code of the Software is confidential. Access to it does not grant
+   any right to use, copy, disclose or distribute it.
+
+4. Third-party components
+   The Software includes open-source components that are licensed to you under
+   their own licences, listed in THIRD-PARTY-NOTICES.txt. Nothing in this
+   licence limits your rights under those licences for those components.
+
+5. Your documents
+   Documents, spreadsheets and presentations you create with the Software
+   belong to you. This licence gives BLK-TTAUDI no rights in them.
+
+6. Termination
+   This licence ends automatically if you break any of its terms. When it ends
+   you must stop using the Software and delete all copies of it.
+
+7. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+8. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL BLK-TTAUDI BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING LOSS OF DATA,
+   ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+For permission requests, contact BLK-TTAUDI through
+https://github.com/BLK-TTAUDI.
